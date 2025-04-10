@@ -18,7 +18,7 @@ Creacion de proyecto de sobre administracion de tareas en un tablero **KANBAN** 
 Elaborado en Next.Js `v12.3.4`, React `v17.0.2`, Material UI `v5.4.0`.
 
 **Kanban Dashboard Task**
-[DEMO](https://)
+[DEMO](https://next-ts-kanban-board.vercel.app/)
 
 
 <div>&nbsp;</div>
